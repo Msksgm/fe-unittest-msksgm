@@ -1,4 +1,7 @@
 export const add = (a: number, b: number) => {
   return a + b;
 };
-add(1, 2);
+
+export const sub = (a: number, b: number) => {
+  return a - b;
+};
